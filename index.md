@@ -3,8 +3,6 @@ layout: default
 title: Talkar's Stuff
 ---
 
-[Insert more exciting page content here later.]
-
 Check out some of my projects above.
 
 The RS Timer is a simple timer program with general-length timers and daily, weekly, and monthly timers based on the 0:00 GMT daily reset times used by RuneScape.
